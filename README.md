@@ -2,8 +2,7 @@
 - 👀 I’m interested in Math, Programming, Sports, Music, Comedy and Communication Arts.
 - 🌱 I’m currently learning Software Developing and Competitive Programming.
 - 😀 My hobbies are Stand-Up Comedy, Calisthenics and Science Dissemination.
-- 📫 How to reach me:
-📷 https://www.instagram.com/chino_cribioli
+- 📫 Contact:
 📩 ezequiel.cribioli@gmail.com
 
 <!---
