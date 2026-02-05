@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chino from Argentina 🇦🇷
+- Zero Knowledge Engineer and Applied Cryptographer.
 - 👀 I’m interested in Math, Programming, Sports, Music, Comedy and Communication Arts.
-- 🌱 I’m currently learning Software Developing and Competitive Programming.
 - 😀 My hobbies are Stand-Up Comedy, Calisthenics and Science Dissemination.
 - 📫 Contact:
 📩 ezequiel.cribioli@gmail.com
