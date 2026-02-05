@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chino from Argentina 🇦🇷
-- Zero Knowledge Engineer and Applied Cryptographer.
+- 🧑‍💻 Zero Knowledge Engineer and Applied Cryptographer.
 - 👀 I’m interested in Math, Programming, Sports, Music, Comedy and Communication Arts.
 - 😀 My hobbies are Stand-Up Comedy, Calisthenics and Science Dissemination.
 - 📫 Contact:
